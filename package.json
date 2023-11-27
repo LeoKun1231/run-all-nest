@@ -1,12 +1,12 @@
 {
-  "publisher": "leo",
+  "publisher": "leo-hqk",
   "name": "run-all-nest",
   "displayName": "run-all-nest",
   "version": "0.0.0",
   "private": true,
   "packageManager": "pnpm@8.10.5",
   "description": "",
-  "author": "Leo <1024983409@qq.com>",
+  "author": "leo-hqk <1024983409@qq.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -55,7 +55,7 @@
     "@antfu/eslint-config": "^1.1.1",
     "@antfu/ni": "^0.21.9",
     "@types/node": "^20.9.0",
-    "@types/vscode": "^1.84.1",
+    "@types/vscode": "^1.83.0",
     "@vscode/vsce": "^2.22.0",
     "bumpp": "^9.2.0",
     "eslint": "^8.53.0",
