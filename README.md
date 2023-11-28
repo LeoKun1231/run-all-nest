@@ -2,7 +2,7 @@
 
 1. 请安装 pnpm
 2. 必须有 nest-cli.json 文件
-3. 必须有在 scripts 中有 dev 命令
+3. 必须有在 scripts 中有 start:dev 命令
 4. 必须是微服务项目
 
 # 运行方式
